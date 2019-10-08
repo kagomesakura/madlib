@@ -1,12 +1,12 @@
 
 adverb = input('Give me an adverb...')
-object = input('Name an object...')
+object1 = input('Name an object...')
 
 output = f"She {adverb} ran down the street with a {object} in her hand."
 
 
 noun = input('Give me a noun...')
-object = input('Name an object...')
+object2 = input('Name an object...')
 output = f"The {noun} picked up the {object} and floated off to space!"
 
 
